@@ -1,2 +1,3 @@
-# service-template-express
-Server template for models
+# {{swagger.info.title}}
+
+{{swagger.info.description}}
